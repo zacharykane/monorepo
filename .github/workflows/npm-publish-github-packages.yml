@@ -9,7 +9,6 @@ on:
       - v*.*.*
 
 jobs:
-
   publish-gpr:
     needs: build
     runs-on: ubuntu-latest
