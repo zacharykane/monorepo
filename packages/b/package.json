@@ -1,5 +1,10 @@
 {
   "name": "@zee/b",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharykane/monorepo.git",
+    "directory": "workspaces/packages"
+  },
   "version": "0.0.0",
   "main": "./dist/build.js",
   "module": "./dist/build.js",

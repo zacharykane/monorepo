@@ -1,9 +1,11 @@
 {
   "name": "nx-npm-workspace",
-  "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "version": "0.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "graph": "nx graph --focus=vite-project",
+    "release": "nx release --skip-publish"
   },
   "keywords": [],
   "author": "",
