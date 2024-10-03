@@ -29,6 +29,7 @@
     "projects": ["packages/*"],
     "changelog": {
       "workspaceChangelog": {
+        "file": false,
         "createRelease": "github"
       }
     }
