@@ -5,7 +5,7 @@
     "url": "git+https://github.com/zacharykane/monorepo.git",
     "directory": "workspaces/packages"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./dist/build.js",
   "module": "./dist/build.js",
   "type": "module",
