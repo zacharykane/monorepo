@@ -1,0 +1,20 @@
+{
+  "name": "@zee/b",
+  "version": "0.0.0",
+  "main": "./dist/build.js",
+  "module": "./dist/build.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./src/*",
+    "build": "mkdir -p ./dist && cp ./src/index.js ./dist/build.js",
+    "clean": "rm -f ./dist/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.11.1",
+    "prettier": "^3.3.3"
+  }
+}
