@@ -12,7 +12,6 @@
       "cache": true
     }
   },
-  "defaultBase": "master",
   "plugins": [
     {
       "plugin": "@nx/vite/plugin",
