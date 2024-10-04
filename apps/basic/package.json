@@ -17,6 +17,6 @@
     "prettier": "^3.3.3"
   },
   "dependencies": {
-    "@zee/a": "^1.0.0"
+    "@zacharykane/a": "^1.0.0"
   }
 }

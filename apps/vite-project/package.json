@@ -12,6 +12,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "@zee/a": "^1.0.0"
+    "@zacharykane/a": "^1.0.0"
   }
 }

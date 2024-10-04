@@ -1,4 +1,4 @@
-import { addTwo } from '@zee/a';
+import { addTwo } from '@zacharykane/a';
 import { setupCounter } from './counter.js';
 import javascriptLogo from './javascript.svg';
 import './style.css';
