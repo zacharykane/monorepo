@@ -131,3 +131,4 @@ dist
 
 .nx
 packages/**/dist
+PRIVATE NOTES.md
